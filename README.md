@@ -54,17 +54,7 @@ Actual test metrics should be reported here after final model evaluation.
 * Streamlit
 * Pillow
 
-## 6. Project Structure
 
-```text
-Bharatanatyam-Mudra-Recognition/
-├── mudra_recognition.ipynb
-├── app.py
-├── mudra_cnn.keras
-├── requirements.txt
-├── README.md
-└── screenshots/
-```
 
 ## 7. Installation
 
@@ -101,9 +91,6 @@ The notebook evaluates the model using:
 
 The final test metrics and findings should be added here after evaluation.
 
-## 10. Screenshots
-
-The `screenshots/` directory contains dataset previews, exploratory visualizations, model training curves, classification results, and Streamlit application screenshots.
 
 ## 11. Limitations
 
